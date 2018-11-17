@@ -3,6 +3,6 @@ def my_select(collection)
   new_selection = []
   new_selection << yield my_select[i]
 end
-my_select 
+my_select
  # your code here!
 end
